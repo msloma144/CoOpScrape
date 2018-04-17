@@ -2,7 +2,7 @@
 
 Developing a web scraper to ease in the process of finding what companies are attending the
 co-op fair each semester.
-* Working on adding multi-threading for faster response
+* *Added multi-threading for faster response (Runs 10 instances at once)*
 * Developing web interface (Django)
 
 ## Built With
